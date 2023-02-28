@@ -16,7 +16,7 @@ services:
       - OG_TITLE=Adrien Biencourt | Goodshort
       - OG_DESCRIPTION=A Goodshort overview
       - OG_URL=https://goodshort.me
-      - OG_IMAGE=https://pbs.twimg.com/profile_images/1027153532124835841/HUzoX0Q6_400x400.jpg # From Twitter
+      - OG_IMAGE=https://media.licdn.com/dms/image/D4E03AQGzY608Go2w8g/profile-displayphoto-shrink_800_800/0/1669803232177?e=1683158400&v=beta&t=wL-fjQw8jVpNcn912Q7Pxg1Utp_58LSn0pIGftV1WAA # From Twitter
       - OG_IMAGE_WIDTH=400
       - OG_IMAGE_HEIGHT=400
       # - GA_TRACKING_ID=G-XXXXXXXXXX
